@@ -1,0 +1,11 @@
+
+{
+  "name": "My Calculator",
+  "short_name": "Calculator",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#141e30",
+  "theme_color": "#141e30",
+  "description": "A simple calculator app",
+  "icons": []
+}
